@@ -1,6 +1,6 @@
 {
-  "id": "enhanced-region-behavior",
-  "title": "Enhanced Region Behavior",
+  "id": "enhanced-region-behavior-tmp",
+  "title": "Enhanced Region Behavior (Temporary fork)",
   "description": "Adds new region options to scene regions",
   "version": "#{VERSION}#",
   "library": "false",
@@ -45,7 +45,7 @@
       "path": "languages/pt-BR.json"
     }
   ],
-  "url": "https://github.com/txm3278/Enhanced-Region-Behaviors",
+  "url": "https://github.com/Xain3/Enhanced-Region-Behaviors",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
